@@ -20,7 +20,7 @@ helm:
 
     global:
       cattle:
-        url: https://rancher.<IPrancher01>.sslip.io/
+        url: https://rancher.3.250.28.117.sslip.io/
 
 dependsOn:
-  - name: all-clusters-all-clusters-crd
+  - name: all-clusters-all-clusters-neuvector-crd
