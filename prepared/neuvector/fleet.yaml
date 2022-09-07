@@ -23,4 +23,4 @@ helm:
         url: https://rancher.<IPrancher01>.sslip.io/
 
 dependsOn:
-  - name: all-clusters-all-clusters-crd
+  - name: all-clusters-all-clusters-neuvector-crd
